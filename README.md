@@ -45,8 +45,13 @@ git push --force
 ```
 
 ---
+5. future skills
+
+    机器学习-- [synaptic](http://caza.la/synaptic/#/)
+    
+
 **comment zone:**
 
 vscode真的越来越好用了，接触了node debug，拿来做markdown编辑器也很好啊。  
 最近切换了mac ubuntu win工作环境，幸亏包管理工具，能快速开始工作。  
-破笔记本N卡装ubuntu，桌面不时的就卡机了，怪我安装东西太多了:(，怀念win
+破笔记本N卡装ubuntu，桌面不时的就卡机了，怪我安装东西太多了:(，怀念win  
