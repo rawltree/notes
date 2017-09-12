@@ -12,7 +12,7 @@ step out of your comfort zone
     我的[练习](testMD.md)：主要使用  
     - 区块引用 >  
     - 代码块 \`\`\` \`\`\`  
-    - 文件内部跳转 \[ ](#id)   
+    - 文件内部跳转 \[ ](#id) [warn:github跳转问题](https://www.zhihu.com/question/58630229/answer/191984051)  
     - 兼容html良好，图片之类的直接使用html来写吧\<img src="">  
 
     <img src="img/bing.png">
