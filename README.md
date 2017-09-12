@@ -27,6 +27,20 @@ step out of your comfort zone
 
     [浏览器的渲染过程](/browser/render.md)
 
+4. tools
+
+ >    git  
+
+ [合并commit](http://www.jianshu.com/p/964de879904a)  
+ 我们可能会由于各种各样的原因提交了许多临时的 commit，而这些 commit 拼接起来才是完整的任务,  
+ 使用git rebase
+```
+# git log |head 
+git rebase -i d1
+# if fail, use git rebase --abort
+git push --force 
+```
+
 ---
 **comment zone:**
 
