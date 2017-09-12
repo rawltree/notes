@@ -9,7 +9,7 @@ step out of your comfort zone
  目录
 1. Markdown语法练习  
     [Markdown 语法说明](http://www.appinn.com/markdown/)引用网友的说明([同上](http://wowubuntu.com/markdown/))  
-    我的[练习](https://github.com/rawltree/notes/blob/master/testMD.md)：主要使用  
+    我的[练习](testMD.md)：主要使用  
     - 区块引用 >  
     - 代码块 \`\`\` \`\`\`  
     - 文件内部跳转 \[ ](#id)   
@@ -19,6 +19,6 @@ step out of your comfort zone
 
 2. Javascript
 
-    [严格模式](/testMD.md) 'use strict'  
+    [严格模式](/javascript/usestrict.md) 'use strict'  
     stub...
     
