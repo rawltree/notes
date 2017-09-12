@@ -19,6 +19,6 @@ step out of your comfort zone
 
 2. Javascript
 
-    [严格模式](/blob/master/testMD.md) 'use strict'  
+    [严格模式](/testMD.md) 'use strict'  
     stub...
     
