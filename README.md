@@ -35,8 +35,11 @@ step out of your comfort zone
  我们可能会由于各种各样的原因提交了许多临时的 commit，而这些 commit 拼接起来才是完整的任务,  
  使用git rebase
 ```
-# git log |head 
-git rebase -i d1
+# git log #提交信息
+git rebase -i d1 #d1 出发点hash前8位
+#选择要合并到前次的提交信息 编辑 pick为squash
+#编辑汇总的commit信息
+#
 # if fail, use git rebase --abort
 git push --force 
 ```
