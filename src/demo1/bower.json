@@ -1,0 +1,17 @@
+{
+  "name": "demo1",
+  "homepage": "https://github.com/rawltree/notes",
+  "authors": [
+    "ytmssr <ytmssr@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

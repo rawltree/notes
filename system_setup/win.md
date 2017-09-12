@@ -12,3 +12,5 @@
 >
 >     git config --global credential.helper store
 
+---
+[windows 10 theme](https://support.microsoft.com/zh-cn/help/13957)
