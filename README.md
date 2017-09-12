@@ -22,3 +22,5 @@ step out of your comfort zone
     [严格模式](/javascript/usestrict.md) 'use strict'  
     stub...
     
+3. 浏览器
+    [浏览器的渲染过程](/browser/render.md)
