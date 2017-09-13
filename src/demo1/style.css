@@ -11,8 +11,7 @@ body {
   position: relative;
 }
 nav {
-  position: absolute;
-  left: 0px;
+  float: left;
   width: 200px;
 }
 section {
