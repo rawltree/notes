@@ -1,0 +1,60 @@
+body {
+    margin-bottom: 120px;
+}
+
+#main_ {
+  max-width: 600px;
+  margin: 0 auto; 
+  background-color: white;
+}
+.container {
+  position: relative;
+}
+nav {
+  position: absolute;
+  left: 0px;
+  width: 200px;
+}
+section {
+  /* position is static by default */
+  margin-left: 200px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
+/*  */
+.elem {
+  border: solid #6AC5AC 3px;
+  position: relative;
+  margin-bottom: 20px;
+  /* padding: 20px; */
+}
+.elem:before {
+  width: 120px;
+  background-color: #6AC5AC;
+  content: '<section>';
+  border: solid #6AC5AC 3px;
+  position: absolute;
+}
+.elem:after {
+  width: 120px;
+  background-color: #6AC5AC;
+  content: '</section>';
+  border: solid #6AC5AC 3px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+img{
+  float: right;
+}
+.clearfix{
+  overflow: auto;
+  zoom: 0;
+}

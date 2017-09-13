@@ -33,3 +33,17 @@
 >局部变量  
 
 #### 对象
+
+#### DOM
+
+>节点类型
+
+1. **\*element node**
+2. text node
+3. attribute node
+4. 
+
+>DOM方法
+ 
+1. getElementById  
+2. getElementsByTagName  返回list
