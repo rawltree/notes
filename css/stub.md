@@ -30,3 +30,8 @@
     常见的块级元素有 DIV, FORM, TABLE, P, PRE, H1~H6, DL, OL, UL 等。  
     常见的内联元素有 SPAN, A, STRONG, EM, LABEL, INPUT, SELECT, TEXTAREA, IMG, <font color="red">BR</font> 等。
 2. 使用float或者inline-block来排列页面元素
+
+### ！浏览器兼容性
+
+1. [chrome font-size<12px](https://stackoverflow.com/questions/2295095/font-size-12px-doesnt-have-effect-in-google-chrome)  
+![chrome firefox 显示效果比较](../img/font12.png 'chrome中文版字体显示最小12px，效果反而有点好')

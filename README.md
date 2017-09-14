@@ -47,6 +47,7 @@ git push --force
 ---
 5. future skills
 
+    [web Components](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)   
     机器学习-- [synaptic](http://caza.la/synaptic/#/)
     
 

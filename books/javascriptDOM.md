@@ -47,3 +47,9 @@
  
 1. getElementById  
 2. getElementsByTagName  返回list
+3. getElementByClassName 比较新，有些DOM实现里没有 
+
+>属性
+
+1. getAttribute 不属于document对象
+1. setAttribute
