@@ -53,6 +53,9 @@ footer {
 img{
   float: right;
 }
+hr{
+  display: block;
+}
 .clearfix{
   overflow: auto;
   zoom: 0;

@@ -52,4 +52,11 @@
 >属性
 
 1. getAttribute 不属于document对象
-1. setAttribute
+2. setAttribute
+3. childNodes
+4. nodeType
+5. nodeValue 文本节点值 
+
+        <p>node value</p>
+        -->  
+        p.childNodes[0].nodeValue === 'node value'
