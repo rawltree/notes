@@ -60,3 +60,16 @@
         <p>node value</p>
         -->  
         p.childNodes[0].nodeValue === 'node value'
+
+>创建DOM
+
+1. 改变页面内容 document.write && innerHTML
+2. 创建元素 createElement(nodeName)
+3. 创建文本节点 createTextNode(text)
+4. 插入元素到dom树 appendChild && (*parentNode*)insertBefore
+
+>ajax
+
+1. 核心**XMLHttpRequestR**
+
+    >[fetch简介: 新一代Ajax API ](http://blog.csdn.net/renfufei/article/details/51494396)
