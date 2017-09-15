@@ -35,3 +35,15 @@
 
 1. [chrome font-size<12px](https://stackoverflow.com/questions/2295095/font-size-12px-doesnt-have-effect-in-google-chrome)  
 ![chrome firefox 显示效果比较](../img/font12.png 'chrome中文版字体显示最小12px，效果反而有点好')
+
+### 编写规范
+
+>一份规划良好的 CSS 应当按照[如下排列](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md#%E4%BB%A3%E7%A0%81%E9%A1%BA%E5%BA%8F)
+1.    **Reset** 万物之根源
+2.    **元素类型** 没有 class 的 h1、ul 等
+3.    **对象以及抽象内容** 最一般、最基础的设计模式
+4.    **子元素** 由对象延伸出来的所有拓展及其子元素
+5.    **修补** 针对异常状态
+
+
+>![魔数](./魔数.png)
