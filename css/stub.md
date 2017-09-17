@@ -47,3 +47,5 @@
 
 
 >![魔数](./魔数.png)
+
+>[元素居中方案](https://segmentfault.com/a/1190000000381042#articleHeader6)

@@ -70,6 +70,43 @@
 
 >ajax
 
-1. 核心**XMLHttpRequestR**
+1. 核心**XMLHttpRequest**
 
     >[fetch简介: 新一代Ajax API ](http://blog.csdn.net/renfufei/article/details/51494396)
+
+    >new XMLHttpRequest()  
+    >open(url, opition, boolean)  
+    >send(null)  
+    >readyState属性  
+
+>兼容模式 标准模式
+
+>style
+
+1. style属性  
+element.style.property = value
+2. 选择器  
+    *  
+    .class  
+    #id  
+    :nth-child  (odd && even)
+    parent>child
+     brother
+
+3. 浏览器对DOM支持优于css支持(表现层分离)
+4. 元素追加class  
+elem.className += " intro"
+5. 
+
+>js动画  (css动画)
+
+1. 
+
+>H5
+
+1. The definitive Guide to HTML5 Video  
+2. Modernizr库做兼容性检查
+3. Dive into HTML5
+
+>final 项目构建
+
